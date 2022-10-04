@@ -1,1 +1,26 @@
-<img src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=790b76115946f4c43e3d53437759c844867cea23ed32e5be&rid=giphy.gif&ct=g" alt="Hello there! I am Max/>
+# Hello there! :wave:
+  
+  My name is <b>Maximilian Mergenthal<b>, I am from <b>Hamburg<b>, <b>Germany<b> and on a journey to become a Web Developer!
+  
+  ## <em>"Why Web Development ❓"</em>
+  
+  One Thing i learned from Bear Grylls is:
+  
+  1. Improvise 🤔
+  2. Adapt 📖
+  3. Overcome 💪
+  
+  This wisdom can be applied on the digital Change in Germany. Many Companies are behind in the competitive virtual space and i want to contribute my part
+  by developing solutions!
+
+  Seeing the potential career Chances in Web devolping, i made the first step, Improvise (started "neueFische Bootcamp")
+  
+  
+  ## <em>"Which Skills can i provide ❓"
+  
+  at the moment:
+  
+  - basic html
+  - basic CSS
+  - basic javaScript
+ 
