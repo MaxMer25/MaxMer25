@@ -23,7 +23,7 @@
   - basic html
   - basic CSS
   - basic javaScript
-  > this list **should** grow in near Future :wink:
+  > this list **should** grow from now on :wink:
   
   ### Others:
   
