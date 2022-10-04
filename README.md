@@ -1,6 +1,6 @@
 # Hello there! :wave:
   
-  My name is <b>Maximilian Mergenthal</b>, I am from <b>Hamburg</b>, <b>Germany</b> and on a journey to become a Web Developer!
+  My name is <b>Maximilian</b>, I am from <b>Hamburg</b>, <b>Germany</b> and on a journey to become a Web Developer!
   
   ## <em>"Why Web Development ❓"</em>
   
