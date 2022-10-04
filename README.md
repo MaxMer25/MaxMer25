@@ -31,7 +31,7 @@
   - one year experience as service technician in the field
   
   
-  "This should be it for now, i will keep bringing updates in near future :smiley:
+  "This should be it for now, i will keep bringing updates in near future" :smiley:
   
   <img src="https://media2.giphy.com/media/bNhbKYM4WFA2s/200.gif?cid=ecf05e47z9wldq2q8wtvaofdt9bq6acp9zl8qo9gtai6v445&rid=200.gif&ct=g" alt="the future!" />
  
