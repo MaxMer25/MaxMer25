@@ -27,7 +27,7 @@
   
   ### Others:
   
-  - trained industrial electronics eechnician
+  - trained industrial electronics technician
   - one year experience as service technician in the field
   
   
