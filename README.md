@@ -20,9 +20,15 @@
   
   ### Digital skills:
   
-  - basic html
-  - basic CSS
-  - basic javaScript
+  - html
+  - CSS
+  - javaScript
+  - React.js
+  - Next.js
+  - MongoDB
+  - Mongoose
+  - npm
+  - git
   > this list **should** grow from now on :wink:
   
   ### Others:
@@ -31,7 +37,5 @@
   - one year experience as service technician in the field
   
   
-  "This should be it for now, i will keep bringing updates in near future" :smiley:
-  
-  <img src="https://c.tenor.com/KmgU95bNIUoAAAAd/sponge-bob-sponge-bob-square-pants.gif" alt="spongebob peaces out!" />
+  "This should be it for now, i will keep bringing updates in near future"
  
